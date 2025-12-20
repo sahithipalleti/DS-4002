@@ -1,32 +1,26 @@
-# Syllabus DS 4002: Prototyping
+# Abridged Syllabus DS 4002: Data Projects
+
+**All course details are posted on the [course Canvas page](https://canvas.its.virginia.edu/courses/167466).**
 
 **Instructors**: 
-   * 12:00 section: Peter Alonzi (lpa2a) and Mohini Gupta (rde6mn)
-   * 13:00 section: Gianluca Guadagni (gg5d) and Andres Castellanos (ppj8hm)
+   * 11:00 - 11:50 section 02: Karsten Siller (khs3z) and Cole Whittington (xxn2pb)
 
 **Office Hours**:
-   - **Peter Alonzi**:
-        - *Dates and times*: Wednesdays 13:00-15:00pm
+   - **Karsten Siller**:
+        - *Dates and times*: Wednesdays 1:00-3:00 p.m.
         - *Location*:  Data Science 344
-   - **Mohini Gupta**: 
-        - *Dates and times*: Fridays 13:00-15:00
+   - **Cole Whittington**: 
+        - *Dates and times*: tbd
         - *Location*: The Hub, 2nd Floor
-   - **Gianluca Guadagni**:
-        - *Dates and times*: Thursdays 17:00-18:00
-        - *Location*: 431
-   - **Andres Castellanos**:
-        - *Dates and times*: TBD
-        - *Location*: TBD
           
 **Subject Area and Catalog Number**: Data Science, DS 4002
 
-**Term** : Fall 2025
+**Term** : Spring 2026
 
 **Meeting times**:     
-   * Section 001 - 12:00-12:50, MWF
-   * Section 002 - 13:00-13:50, MWF
+   * Section 001 - 11:00-11:50, MWF
 
-**Class Location**: Data Science Room 306
+**Class Location**: Data Science Room 206
 
 **Class Title**: Prototyping (in SIS: Data Science Project Course)
 
@@ -34,7 +28,7 @@
 
 **Credit Type**: Grade (A-F) using [Specifications Grading](https://app.cte.virginia.edu/events/cdi-2x-designing-equitable-grading-schemes)
 
-**Learning Management System**: This course uses UVACanvas (https://canvas.virginia.edu/)
+**Learning Management System**: This course uses [UVACanvas](https://canvas.its.virginia.edu/courses/167466)
 <br>
 
 ## About the course
@@ -100,9 +94,9 @@ This class uses the Specifications grading system. Like a more traditional syste
 
 * N.B. There is no final exam for this class.
 * Attendance credit is earned during the project cycles. I.e. from 9/8 through 12/3.
-* Due dates are listed in canvas and submissions are made via canvas except for CS3. No assignments can be accepted after 12/11.
+* Due dates are listed in [Canvas](https://canvas.its.virginia.edu/courses/167466) and submissions are made via Canvas except for CS3. No assignments can be accepted after 12/11.
 
 ## A few Policies that will Govern the Class
 Attendance Policy: The majority of the project work for this class is done during class. As such attendance is part of the course grade. Details are in the grading details page [Grading Policy](grading.md).
 
-There are many additional policies that this course inherits from the School of Data Science course policies, please see [here](https://myuva-my.sharepoint.com/:w:/g/personal/lpa2a_virginia_edu/EV_hHfKR8nxAissJQ5nxVEYB8wpCfQTej1YOnr-fzmgxQw?e=6yE1x1)
+There are many additional policies that this course inherits from the School of Data Science course policies, please review the [Canvas course page](https://canvas.its.virginia.edu/courses/167466) for details.
